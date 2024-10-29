@@ -5,7 +5,9 @@ diplomas are impressive
 
 ### Experience
 Impressive Jobs
-- projects and such
+- so rad
 - cool stuff
 
 ### Projects
+- great project
+- cool project
