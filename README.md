@@ -1,13 +1,3 @@
-# Data Scientist
+## Please visit my portfolio page for more information:
 
-### Education
-diplomas are impressive
-
-### Experience
-Impressive Jobs
-- so rad
-- cool stuff
-
-### Projects
-- great project
-- cool project
+https://hmblackwood.github.io/
